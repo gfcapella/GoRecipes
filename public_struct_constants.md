@@ -1,4 +1,4 @@
-#Public Struct Constants
+# Public Struct Constants
 
 The `const` modifier can only be applied to numbers, characters, strings and booleans. A typical scenario is where we want to create and share a constant with a struct type.
 
