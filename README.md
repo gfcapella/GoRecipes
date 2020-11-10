@@ -5,3 +5,5 @@ Here you find a collection of the recipes I find most useful when coding.
 
 - [Public Struct Constants](public_struct_constants.md)
 - [Defer Free](defer_free.md)
+
+Check [here](resources.md) recommended resources about [Go](https://golang.org).
