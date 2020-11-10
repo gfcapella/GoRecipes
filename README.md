@@ -4,4 +4,4 @@
 Here you find a collection of the recipes I find most useful when coding.
 
 # Defer Recipes
-- [Teardown Function](defer/teardown_function.md)
+- [Defer Free](defer_free.md)
